@@ -1,0 +1,1 @@
+import { QuranSidebar } from "@/components/QuranSidebar";
